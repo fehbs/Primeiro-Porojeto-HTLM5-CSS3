@@ -1,4 +1,4 @@
-## Olá pessoal, tudo bem? Estou em processo de transição de carreira. Comecei a estudar programação a mesnos de três mêses. E estou curtindo muito o processo.Tem sido um aprendizado muito divertido e inspirado!!! Esse foi o meu primeiro projeto de conclusão do CURSO BÁSICO INTRODUÇÃO - HTML5 - CC3 - (Digital Inovation One).
+## Olá pessoal, tudo bem? Estou em processo de transição de carreira. Comecei a estudar programação a mesnos de três mêses. E estou curtindo muito o processo.Tem sido um aprendizado muito divertido e inspirador!!! Esse foi o meu primeiro projeto de conclusão do CURSO BÁSICO INTRODUÇÃO - HTML5 - CC3 - (Digital Inovation One).
 ## Acesse o link abaixo para navegar:
 ## https://dark-inspirations.netlify.app/
 ## Obrigado!!!
